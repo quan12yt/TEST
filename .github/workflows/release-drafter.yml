@@ -10,4 +10,4 @@ on:
 
 jobs:
   release_drafter:
-    uses: quan12yt/test-workflow/.github/workflows/release-drafter.yml@v6
+    uses: quan12yt/test-workflow/blob/main/.github/workflows/release-drafter.yml@v6
